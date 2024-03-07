@@ -1,0 +1,26 @@
+{
+"name": "canvasflameanidelanoni12",
+"version": "1.0.0",
+"description": "This project demonstrates a simple flame animation created using JavaScript and the HTML5 Canvas element. When the user clicks on the canvas, flames will shoot up from the clicked location.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/delanoni12/CanvasFlameAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "delanoni12",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
